@@ -3390,6 +3390,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ClipUGC](https://clipugc.com) `https://clipugc.com/mcp`
   [![ClipUGC MCP connector](https://glama.ai/mcp/connectors/io.github.clipugc/clipugc/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.clipugc/clipugc)
   🔐 - Make UGC videos for mobile apps with AI influencers who keep the same face.
+- [Common Ground](https://common-ground.lipmichal.workers.dev) `https://common-ground.lipmichal.workers.dev/mcp`
+  [![Common Ground MCP connector](https://glama.ai/mcp/connectors/dev.workers.lipmichal.common-ground/common-ground/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.lipmichal.common-ground/common-ground)
+  🔓 - Pick one movie, show, book, artist or restaurant a whole group will enjoy, using Qloo taste data.
 - [CrateWire](https://cratewire.com) `https://cratewire.com/mcp`
   [![CrateWire MCP connector](https://glama.ai/mcp/connectors/com.cratewire/cratewire/badges/score.svg)](https://glama.ai/mcp/connectors/com.cratewire/cratewire)
   🔐 - Find the tracks DJs play in Instagram, TikTok and set links; follow DJs, scan link lists and read your Radar.
