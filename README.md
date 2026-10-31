@@ -2371,6 +2371,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![YABA MCP connector](https://glama.ai/mcp/connectors/day.yaba/yaba/badges/score.svg)](https://glama.ai/mcp/connectors/day.yaba/yaba)
   🔐 - Family budget for couples: read spending, budget pace, bills and balances; add or fix entries if allowed.
 
+- [Zovo Grant Finder](https://grant-finder.zovo.one/) `https://grant-finder.zovo.one/mcp`
+  [![Zovo Grant Finder MCP connector](https://glama.ai/mcp/connectors/io.github.theluckystrike/grant-finder/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theluckystrike/grant-finder)
+  🔓 - Search Grants.gov federal grant opportunities, read details, and download XLSX trackers and ICS deadline files.
+- [Zovo Per Diem](https://per-diem.zovo.one/) `https://per-diem.zovo.one/mcp`
+  [![Zovo Per Diem MCP connector](https://glama.ai/mcp/connectors/io.github.theluckystrike/zovo-per-diem-calculator/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theluckystrike/zovo-per-diem-calculator)
+  🔓 - GSA CONUS per diem rates and trip allowances with first/last-day and meal deductions; XLSX and CSV worksheets.
 - [Zovo Price Tracker](https://mcp.zovo.one/s/price-tracker) `https://mcp.zovo.one/mcp/price-tracker`
   [![Zovo Price Tracker MCP connector](https://glama.ai/mcp/connectors/io.github.theluckystrike/price-tracker-drop-alert-watch/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.theluckystrike/price-tracker-drop-alert-watch)
   🔓 - Track shop prices over time: snapshot pages, keep a watch list, and get alerts when a target price is hit.
